@@ -4,6 +4,12 @@ This it the start up project for anyone attempting to learn python
 
 ## How to use git
 
+- Installing git if you don't have it
+
+  ```bash
+  sudo apt install git
+  ```
+
 - Copying a repository
 
   ```bash
@@ -40,15 +46,14 @@ This it the start up project for anyone attempting to learn python
   git push origin <name of branch>
   ```
 
+## Python Crash Course
+
+- [w3schools python tutorial](https://www.w3schools.com/python/default.asp)
+- [Django girls](https://tutorial.djangogirls.org/en/)
+
 ## Steps
 
-- Install git if you don't have it
-
-  ```bash
-  sudo apt install git
-  ```
-
-- Install Python if you haven't yet
+- Install Python 3 if you haven't yet
 - Create the project folder, say learn-python and enter it
 
   ```bash
@@ -77,4 +82,12 @@ This it the start up project for anyone attempting to learn python
 
 - Follow the [Quick start tutorial for flask](https://flask.palletsprojects.com/en/1.1.x/quickstart/)
 
+## Good to Have
+
+- [PEP 8](https://www.python.org/dev/peps/pep-0008/) - Good coding guidelines for python
+- [Test drive development (TDD)](https://hackernoon.com/introduction-to-test-driven-development-tdd-61a13bc92d92) - Write automatic tests before writing the source code that makes it work
+
 ## Projects
+
+- [Flask Scotch.io tutorial part 1 - TDD](https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way)
+- [Flask Scotch.io tutorial part 2 - TDD](https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way-part-2)
