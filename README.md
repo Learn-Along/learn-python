@@ -4,6 +4,24 @@ This it the start up project for anyone attempting to learn python
 
 ## How to use git
 
+- Initialiize a git repository on local disk
+
+  ```bash
+  git init
+  ```
+
+- Add any unsaved changes in current folder
+
+  ```bash
+  git add .
+  ```
+
+- Commit any staged changes
+
+  ```bash
+  git commit -m "<A descriotive message of the changes committed>"
+  ```
+
 - Installing git if you don't have it
 
   ```bash
