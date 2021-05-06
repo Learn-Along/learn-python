@@ -18,9 +18,9 @@ Forget the beginner tutorials that teach you how to create a todo list and all. 
 
 - [General](./tutorials/general/README.md)
   - [git](./tutorials/general/git/README.md)
-- [flask](./tutorials/flask/README.md)
+- [Flask](./tutorials/flask/README.md)
   - [hello-flask](./tutorials/flask/hello-flask/README.md)
   - [bucketlist](./tutorials/flask/bucketlist/README.md)
-- [django](./tutorials/django/README.md)
-- [fastapi](./tutorials/fastapi/README.md)
-- [data_science](./tutorials/data_science/README.md)
+- [Django](./tutorials/django/README.md)
+- [Fastapi](./tutorials/fastapi/README.md)
+- [Data_science](./tutorials/data_science/README.md)
